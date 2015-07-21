@@ -1,2 +1,4 @@
 # python_bot
-Learning how to use a python and making a Reddit bot at the same time.
+Python fun. This bot simply replies to the top 5 threads in a subreddit that
+contain the phrase 'i love python!' with "So does Richard!". Further
+development to be done at a later time.
